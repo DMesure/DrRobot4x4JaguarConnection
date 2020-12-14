@@ -1,0 +1,6 @@
+C:\Users\dknoops\source\repos\RobotAPI\RobotControlLib\bin\Debug\RobotControlLib.dll
+C:\Users\dknoops\source\repos\RobotAPI\RobotControlLib\bin\Debug\RobotControlLib.pdb
+C:\Users\dknoops\source\repos\RobotAPI\RobotControlLib\obj\Debug\RobotControlLib.csprojAssemblyReference.cache
+C:\Users\dknoops\source\repos\RobotAPI\RobotControlLib\obj\Debug\RobotControlLib.csproj.CoreCompileInputs.cache
+C:\Users\dknoops\source\repos\RobotAPI\RobotControlLib\obj\Debug\RobotControlLib.dll
+C:\Users\dknoops\source\repos\RobotAPI\RobotControlLib\obj\Debug\RobotControlLib.pdb
